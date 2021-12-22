@@ -1,0 +1,16 @@
+Cenário1: TESTAR se o usuário pode se logar
+ 
+Entrada 1 - email.com (falta o dominio); senha 'correta'
+Saída 1: email e/ou senha inválido.
+ 
+Entrada 2 - email@gmail.com (correto); senha 'incorreta'
+Saída 1: email e/ou senha inválido.
+ 
+Entrada 3 - email@gmail.com (correto; senha 'correta
+Saída: direcionar para a tela principal da aplicação.
+
+
+
+Cenario2: TESTAR se o usuario consegue se registrar
+
+Entrada 1 - 
